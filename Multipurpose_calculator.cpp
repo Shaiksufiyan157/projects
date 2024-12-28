@@ -193,7 +193,7 @@ int calculator(){
 
 
 int main(){
-    cout<<"\t\t----------BASIC CALCULATOR AND CONVERTOR----------\n";
+    cout<<"\t\t----------BASIC CALCULATOR AND UNIT CONVERTOR----------\n";
     int choice;
     do{
         cout<<"\tPRESS 1 TO START THE OPERATIONS OR PRESS 0 TO END THE OPERATION\n";
